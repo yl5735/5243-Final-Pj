@@ -13,7 +13,7 @@ cd  5243-Final-Project
 ```{python}
 pip install -r requirements.txt
 ```
-4. Run our Interactive Dashiboard
+4. Run our Interactive Dashboard
 ```{python}
 shiny run dashboard-app.py
 ```
